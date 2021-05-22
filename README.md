@@ -2,7 +2,7 @@
 
 My **Full Stack curriculum** to learn web development.
 
-This is a cureated list of courses that aims to cover the fundamentals of web and full stack development. Helpful resources have also been added for supplementary learning. Please feel free to star/copy this repository and personalize it to your own learning path. This repository was inspired by [Max Demaio](https://github.com/maxwelldemaio?tab=overview&from=2021-05-01&to=2021-05-22)
+This is a cureated list of courses that aims to cover the fundamentals of full stack web development. Helpful resources have also been added for supplementary learning. Please feel free to star/copy this repository and personalize it to your own learning path. This repository was inspired by [Max Demaio](https://github.com/maxwelldemaio?tab=overview&from=2021-05-01&to=2021-05-22)
 
 ## Learning to learn
 
