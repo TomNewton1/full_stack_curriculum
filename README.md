@@ -42,3 +42,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 ### Upwork 
 
 ### CV and newtorking 
+
+## Supplementary Materials
+
+- Books/Literature:
+
+
+- YouTube Channels:
+
+- Websites: 
+
+- YouTube Series/Videos:
