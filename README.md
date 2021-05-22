@@ -11,7 +11,7 @@ This is a cureated list of courses that aims to cover the fundamentals of web an
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | ✔️
-[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | ✔️
+[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | 
 
 ## Backend Web Development
 
