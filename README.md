@@ -31,14 +31,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ## Development Experience
 
-# Projects 
+### Projects 
 
-# Open Source 
+### Open Source 
 
-# Hackathons 
+### Hackathons 
 
-# Chingu 
+### Chingu 
 
-# Upwork 
+### Upwork 
 
-# CV and newtorking 
+### CV and newtorking 
