@@ -8,7 +8,7 @@ This is a curated list of courses that aims to cover the fundamentals of full st
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | 10 weeks | 10-20 hours/week | self-paced | none | ✔
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | 2 weeks | 5 hours/week | self-paced | none | 
 
 
 
@@ -17,7 +17,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | ✔️
-[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 2 weeks | 5 hours/week | self-paced | None | 
+[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 8 weeks | 10-2 hours/week | self-paced | Intro to Computer Science | 
 
 ## Backend Web Development
 
