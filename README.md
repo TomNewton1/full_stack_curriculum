@@ -22,6 +22,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 ## Backend Web Development
 
 ## Front End Web development
+Courses | School | Duration | Effort | Frequency | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Front End Web Development Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development) | Treehouse | 3/6 months | 15 hours/week | self-paced | none | 
 
 ## SQL, Models and migrations 
 
