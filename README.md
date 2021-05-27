@@ -26,7 +26,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Front End Web Development Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development) | Treehouse | 3/6 months | 15 hours/week | self-paced | none | 
 
-## SQL, Models and migrations 
+## SQL, Models and migrations
+Courses | School | Duration | Effort | Frequency | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[SQL & PostgreSQL for Beginners: Become an SQL Expert](https://www.udemy.com/course/sql-and-postgresql-for-beginners/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.UK&utm_term=_._ag_114213220700_._ad_520641169164_._kw__._de_c_._dm__._pl__._ti_dsa-393987629421_._li_1006965_._pd__._&matchtype=b&gclid=Cj0KCQjwhr2FBhDbARIsACjwLo3Es5DaFKqMk0uQb1SQLTYHVbp7nnwP1qSp8PKwrBYc4yD7cFzMP_8aApbxEALw_wcB) | Udemy | 25 hours | 7 hours/week | self-paced | none | 
 
 ## Git and Github 
 
