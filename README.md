@@ -47,6 +47,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 ## Development Experience
 
 ### Projects 
+- [sizemysolar.co.uk](https://www.sizemysolar.co.uk/)
+- [Finance](https://github.com/TomNewton1/finance)
+- [Commerce](https://github.com/TomNewton1/commerce)
+
 
 ### Open Source 
 
