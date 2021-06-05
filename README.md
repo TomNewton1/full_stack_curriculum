@@ -21,6 +21,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ## Backend Web Development
 
+- [Python Crash Course - Eric Matthes](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280)
+- [Automate the boring stuff - Al Sweigart](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
+- [Learning Python - Mark Lutz](https://www.amazon.co.uk/Learning-Python-Mark-Lutz/dp/1449355730)
+
 ## Front End Web development
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
