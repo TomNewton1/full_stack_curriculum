@@ -64,6 +64,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ### Hackathons 
 
+- [R.U. Hack](https://devpost.com/software/ucas-clear)
+
 ### Chingu 
 
 ### Upwork 
