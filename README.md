@@ -14,8 +14,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 Book | Author | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Python Crash Course](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280) | Matthes | 3 weeks | 1-2 hours/week | self-paced | none | ✔️
-[Automate the boring stuff](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994) | Sweigart | 3 weeks | 1-2 hours/week | self-paced | Python Crash Course |
+[Python Crash Course](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280) | Matthes | 3 weeks | 5-7 hours/week | self-paced | none | ✔️
+[Automate the boring stuff](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994) | Sweigart | 3 weeks | 5-7 hours/week | self-paced | Python Crash Course |
 [Learning Python](https://www.amazon.co.uk/Learning-Python-Mark-Lutz/dp/1449355730) | Lutz | Ongoing | when necessary | self-paced | Python Crash Course, Automate the boring stuff | 
 
 
@@ -44,7 +44,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ## Testing, CI/CD & test driven development
 
-- [Test Driven Development with Angular](https://www.udemy.com/course/test-driven-development-with-angular/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.UK&utm_term=_._ag_114213220700_._ad_480613943689_._kw__._de_m_._dm__._pl__._ti_dsa-110925177408_._li_1006965_._pd__._&matchtype=b&gclid=Cj0KCQjw5PGFBhC2ARIsAIFIMNeSGhYMt09IvTApi7f1Bz0n5scdPO8ZAjCj--EJ-OASR1l6JwO4oacaArT9EALw_wcB)
+Book | Author | Duration | Effort | Frequency | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Test Driven Development with Python/Django](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280) | Percival | 4 weeks | 5-7 hours/week | self-paced | none | ✔️
+
+
 
 ## REST API
 
