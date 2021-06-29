@@ -10,6 +10,13 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | 2 weeks | 5 hours/week | self-paced | none | 
 
+## Python Fundamentals
+
+Book | Author | Duration | Effort | Frequency | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Python Crash Course](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280) | Matthes | 3 weeks | 1-2 hours/week | self-paced | none | ✔️
+[Automate the boring stuff](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994) | Sweigart | 3 weeks | 1-2 hours/week | self-paced | none |
+[Learning Python](https://www.amazon.co.uk/Learning-Python-Mark-Lutz/dp/1449355730) | Lutz | Ongoing | when necessary | self-paced | none | 
 
 
 ## Computer Science Basics / Programming
@@ -19,11 +26,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | ✔️
 [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 8 weeks | 10-2 hours/week | self-paced | Intro to Computer Science | 
 
-## Backend Web Development
-
-- [Python Crash Course - Eric Matthes](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280)
-- [Automate the boring stuff - Al Sweigart](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
-- [Learning Python - Mark Lutz](https://www.amazon.co.uk/Learning-Python-Mark-Lutz/dp/1449355730)
 
 ## Front End Web development
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
