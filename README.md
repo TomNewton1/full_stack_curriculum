@@ -16,7 +16,8 @@ Book | Author | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Python Crash Course](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280) | Matthes | 3 weeks | 5-7 hours/week | self-paced | none | ✔️
 [Automate the boring stuff](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994) | Sweigart | 3 weeks | 5-7 hours/week | self-paced | Python Crash Course |
-[Learning Python](https://www.amazon.co.uk/Learning-Python-Mark-Lutz/dp/1449355730) | Lutz | Ongoing | when necessary | self-paced | Python Crash Course, Automate the boring stuff | 
+[Learning Python](https://www.amazon.co.uk/Learning-Python-Mark-Lutz/dp/1449355730) | Lutz | Ongoing | when necessary | self-paced | Python Crash Course, Automate the boring stuff |
+[Python Flashcards](https://quizlet.com/Tomas_Newton/folders/python/sets) | Self | Ongoing | 20 mins/day | self-paced | Python | 
 
 
 ## Computer Science Basics / Programming
