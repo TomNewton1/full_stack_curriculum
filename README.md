@@ -31,7 +31,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 ## Front End Web development
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Front End Web Development Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development) | Treehouse | 3/6 months | 15 hours/week | self-paced | none | 
+[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) | freeCodeCamp | 300h | 15 hours/week | self-paced | none |
+[JavaScript Algorithms and Data Stuctures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | freeCodeCamp | 300h | 15 hours/week | self-paced | none |
+[Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) | freeCodeCamp | 300h | 15 hours/week | self-paced | none |
+ 
 
 ## SQL, Models and migrations
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
