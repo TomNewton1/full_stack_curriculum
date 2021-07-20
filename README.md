@@ -8,7 +8,7 @@ This is a curated list of courses that aims to cover the fundamentals of full st
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | 2 weeks | 5 hours/week | self-paced | none | 
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | 2 weeks | 5 hours/week | self-paced | none | ✔️
 
 ## Python Fundamentals
 
